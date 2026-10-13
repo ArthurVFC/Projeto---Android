@@ -57,6 +57,8 @@ nav {
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
+    display: flex;
+    
 }
 
 
