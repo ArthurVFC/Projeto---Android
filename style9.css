@@ -55,7 +55,7 @@ header > p {
 nav {
     background-color: var(--cor5);
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-wrap: wrap;
     gap: 5px;
 }
